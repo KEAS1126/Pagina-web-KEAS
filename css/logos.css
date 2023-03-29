@@ -1,0 +1,75 @@
+.world{
+    position: relative;
+    left: 7px;
+    top: 15px;
+
+}
+.languages{
+    position: relative;
+    left:38px;
+    bottom: 6px;
+}
+.en{
+    position: relative;
+    left: 70px;
+    top: 15px;
+}
+.es{
+    position: relative;
+    left: 90px;
+    top: 15px;
+}
+.social{
+    position: relative;
+    left: 120px;
+    top: 15px;
+}
+.our_social{
+    position: relative;
+    left: 150px;
+    bottom: 6px;
+}
+.facebook{
+    position: relative;
+    left: 170px;
+    top: 10px;
+}
+.twitter{
+    position: relative;
+    left: 180px;
+    top: 10px;
+}
+.linkedIn{
+    position: relative;
+    left: 190px;
+    top: 10px;
+}
+.pinterest{
+    position: relative;
+    left: 200px;
+    top: 10px;
+}
+.star{
+    position: relative;
+    top: 10px;
+}
+.tour{
+    position: relative;
+    left: 30px;
+    bottom: 12px;
+}
+.place{
+    position: relative;
+    left: 60px;
+    top: 12px;
+}
+.contact{
+    position: relative;
+    left: 90px;
+    bottom: 8px;
+}
+.logo{
+    position: relative;
+    right: 10px;
+    bottom: 20px;
+}
